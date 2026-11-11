@@ -1,4 +1,6 @@
 # HB302
+
+This is for class of 2028 BSc BED batch.
 This is for our class.
 This is our class of ICT HB302. 
 The course name is ICt
